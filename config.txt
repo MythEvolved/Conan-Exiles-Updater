@@ -1,0 +1,2 @@
+steamcmd_path = "" % Put the path to steamcmd.exe (must contain 'steamcmd.exe' too)
+server_path = "" % Put the path to server
